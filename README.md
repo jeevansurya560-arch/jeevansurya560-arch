@@ -67,7 +67,7 @@ Building practical software, exploring AI, and solving real-world problems with 
 . Languages:    Python, SQL, JavaScript, C, HTML, CSS
 . Frameworks:   React, FastAPI, MySQL, Power BI, Git
 
-— Quick Contact
+— Contact
 . Portfolio:    https://portfolio-1019.vercel.app
 . Email:        jalli.jeevansurya1019@gmail.com
 . LinkedIn:     linkedin.com/in/jeevan-surya
@@ -81,23 +81,7 @@ Building practical software, exploring AI, and solving real-world problems with 
 
 ---
 
-## 🧭 About Me
-
-I am an Artificial Intelligence and Data Science undergraduate at Vignan's Institute of Information Technology, Visakhapatnam, graduating in 2028. Rather than accumulating buzzwords, I focus on understanding systems from the ground up: writing clean code, cleaning and analyzing messy real-world data, exploring machine learning models, and building software that solves concrete problems.
-
-My work balances data engineering and analytics with full-stack product development. Whether engineering predictive pipelines, optimizing relational queries, or designing real-time collaborative web applications, I aim for solutions that are measurable, structured, and reliable.
-
-- 🔭 **Current Focus**: Machine learning pipelines, relational data architecture, exploratory data analysis, and building full-stack web applications.
-- 💡 **Core Interests**: Artificial Intelligence & Machine Learning, Data Science & Analytics, Full-Stack Engineering, Data Structures & Algorithms, and SQL-driven problem-solving.
-- 🏆 **Competitive Programming**: **2★ Coder on CodeChef** (`jeevan_2008`) practicing algorithmic optimization, logic building, and contest problem solving.
-- 🎓 **Academics**: B.Tech in AI & DS (2024–2028) &bull; CGPA: 8.4 / 10.
-- 📍 **Based in**: Visakhapatnam, Andhra Pradesh, India.
-
----
-
 ## 🛠️ Technical Skills
-
-Organized into focused categories reflecting practical experience across coursework, independent projects, and development workflows.
 
 <table>
   <thead>
@@ -152,94 +136,16 @@ Organized into focused categories reflecting practical experience across coursew
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-A curated selection of four core software, machine learning, and infrastructure projects, arranged in exact sequence:
-
-### 1. [Eillish](https://github.com/jeevansurya560-arch/Eillish)
-**AI-Powered Personal Knowledge Management System**
-
-* **Problem & Concept**: Technical notes, documentation, and code snippets frequently end up fragmented and difficult to cross-reference. Eillish is designed to ingest, index, and organize knowledge from repositories and documents into a structured, searchable knowledge base rather than a basic file dump.
-* **Architecture & Capabilities**: Employs continuous ingestion pipelines, document chunking, semantic vector indexing, and retrieval-augmented generation (RAG) principles to support contextual query answering and knowledge retrieval.
-* **Technologies**: `TypeScript` &bull; `Node.js` &bull; `Vite` &bull; `Vector Search` &bull; `RAG Architecture`
-* **Repository Link**: [https://github.com/jeevansurya560-arch/Eillish](https://github.com/jeevansurya560-arch/Eillish)
-
----
-
-### 2. [Finneas](https://github.com/jeevansurya560-arch/Finneas)
-**Real-Time Collaborative Study Space for Small Groups**
-
-* **Problem & Concept**: Online group study is often disrupted by general-purpose messaging platforms cluttered with noise and distractions. Finneas provides private, focused virtual rooms modeled after a reserved library study table.
-* **Current Status & Capabilities**: V1 in active development. Features private authenticated rooms with invite links, instant group chat, live member presence detection, synchronized Pomodoro study sessions, and centralized link/resource sharing.
-* **Technologies**: `React 18` &bull; `TypeScript` &bull; `Node.js / NestJS` &bull; `Socket.IO` &bull; `PostgreSQL` &bull; `Prisma` &bull; `Tailwind CSS`
-* **Repository Link**: [https://github.com/jeevansurya560-arch/Finneas](https://github.com/jeevansurya560-arch/Finneas)
-
----
-
-### 3. [Hailey](https://github.com/jeevansurya560-arch/Hailey)
-**Culture Discovery Platform & Onchain Archival Ledger**
-
-* **Problem & Concept**: Cultural heritages, traditions, community practices, and subcultures are often obscured by opaque algorithmic recommendation feeds. Hailey builds an open cultural discovery engine and archival ledger that pairs transparent curation with immutable provenance.
-* **Architecture & Capabilities**: Implements an explainable taxonomy graph with 65+ cultural tags and 148 thematic relational edges; provides transparent algorithmic attribution (**WhyStamps**) on every dispatch; enforces community curator triage workflows; and records approved contributions via Keccak-256 canonical hashing on the **Monad Testnet** blockchain.
-* **Technologies**: `React 19` &bull; `Vite` &bull; `Supabase (PostgreSQL 15+ with RLS)` &bull; `Monad Testnet (10143)` &bull; `Viem / Wagmi` &bull; `Solidity` &bull; `TanStack Query`
-* **Repository Link**: [https://github.com/jeevansurya560-arch/Hailey](https://github.com/jeevansurya560-arch/Hailey)
-
----
-
-### 4. [Travel Analysis](https://github.com/jeevansurya560-arch/Travel_Analysis)
-**End-to-End Travel Booking Analytics & Predictive Pipeline**
-
-* **Problem & Concept**: Travel booking platforms handle massive volumes of multi-channel transactions that contain missing values, anomalies, and cancellations. This project establishes a complete data analytics lifecycle transforming messy transactional data into actionable operational insights and predictive signals.
-* **Architecture & Capabilities**: Complete analytics pipeline spanning programmatic Python cleaning and outlier handling, relational MySQL database schema design, analytical SQL queries (window functions and aggregation across customer tiers, channels, and trip duration), interactive Power BI dashboards, and comparative machine learning models (Logistic Regression, Decision Trees, and Random Forest) evaluating booking drivers and feature importance.
-* **Technologies**: `Python` &bull; `Pandas` &bull; `NumPy` &bull; `MySQL` &bull; `Power BI` &bull; `Scikit-learn` &bull; `EDA`
-* **Repository Link**: [https://github.com/jeevansurya560-arch/Travel_Analysis](https://github.com/jeevansurya560-arch/Travel_Analysis)
-
----
-
-## 🧠 Problem Solving & Coding Profiles
-
-Practicing data structures, algorithmic efficiency, and SQL problem-solving across verified competitive platforms:
-
-<table>
-  <thead>
-    <tr>
-      <th width="50%" align="center">CodeChef &bull; 2★ Coder</th>
-      <th width="50%" align="center">LeetCode</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://www.codechef.com/users/jeevan_2008">
-          <img src="https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2-Star Profile" />
-        </a>
-        <br /><br />
-        <a href="https://www.codechef.com/users/jeevan_2008"><strong>codechef.com/users/jeevan_2008</strong></a>
-        <br />
-        ⭐ <strong>2★ Rated Coder</strong> on CodeChef
-        <br />
-        <sub>Competitive Programming &bull; Logic Building &bull; Algorithmic Starters Contests</sub>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/xEsEJyLy3A/">
-          <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-        </a>
-        <br /><br />
-        <a href="https://leetcode.com/u/xEsEJyLy3A/"><strong>leetcode.com/u/xEsEJyLy3A</strong></a>
-        <br />
-        🧩 <strong>Algorithm & SQL Practice</strong>
-        <br />
-        <sub>Data Structures &bull; Algorithms &bull; Dynamic Programming &bull; Problem Solving</sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- ### [Eillish](https://github.com/jeevansurya560-arch/Eillish)
+- ### [Finneas](https://github.com/jeevansurya560-arch/Finneas)
+- ### [Hailey](https://github.com/jeevansurya560-arch/Hailey)
+- ### [Travel Analysis](https://github.com/jeevansurya560-arch/Travel_Analysis)
 
 ---
 
 ## 📊 GitHub Activity & Insights
-
-A snapshot of my development workflow and language distribution across public repositories:
 
 <div align="center">
 
@@ -256,38 +162,6 @@ A snapshot of my development workflow and language distribution across public re
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansurya560-arch&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansurya560-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </picture>
-
-</div>
-
----
-
-## 🌐 Connect & Contact
-
-All profiles and communication channels are directly reachable below:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevan--surya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-surya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--1019-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1019.vercel.app)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jeevan_2008)
-[![LeetCode](https://img.shields.io/badge/LeetCode-xEsEJyLy3A-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xEsEJyLy3A/)
-[![Reddit](https://img.shields.io/badge/Reddit-Suryaaa__jr__11-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Suryaaa_jr_11/)
-[![X](https://img.shields.io/badge/X-@Suryaaaos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suryaaaos)
-[![Email](https://img.shields.io/badge/Email-jalli.jeevansurya1019%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalli.jeevansurya1019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jeevansurya560--arch-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeevansurya560-arch)
-
-<br />
-
-| Platform | Direct Clickable Redirect Link |
-|:---|:---|
-| **CodeChef** | [https://www.codechef.com/users/jeevan_2008](https://www.codechef.com/users/jeevan_2008) *(2★ Rated Coder)* |
-| **LeetCode** | [https://leetcode.com/u/xEsEJyLy3A/](https://leetcode.com/u/xEsEJyLy3A/) |
-| **Reddit** | [https://www.reddit.com/user/Suryaaa_jr_11/](https://www.reddit.com/user/Suryaaa_jr_11/) |
-| **LinkedIn** | [https://www.linkedin.com/in/jeevan-surya/](https://www.linkedin.com/in/jeevan-surya/) |
-| **Portfolio** | [https://portfolio-1019.vercel.app](https://portfolio-1019.vercel.app/) |
-| **X (Twitter)** | [https://x.com/Suryaaaos](https://x.com/Suryaaaos) |
-| **Email** | [jalli.jeevansurya1019@gmail.com](mailto:jalli.jeevansurya1019@gmail.com) |
-| **GitHub** | [https://github.com/jeevansurya560-arch](https://github.com/jeevansurya560-arch) |
 
 <br />
 
