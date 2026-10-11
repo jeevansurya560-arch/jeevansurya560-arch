@@ -1,30 +1,83 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ascii-portrait-light.png">
-  <img alt="Jeevan Surya Jalli — Monochromatic ASCII Portrait" src="assets/ascii-portrait-dark.png" width="340" />
-</picture>
-
 # Jeevan Surya Jalli
 
-**AI & Data Science Student &bull; Software Builder &bull; 2★ Coder on CodeChef**
+### AI & Data Science Student &bull; Full-Stack Builder &bull; 2★ Coder on CodeChef
 
-📍 Visakhapatnam, Andhra Pradesh, India &nbsp;&bull;&nbsp; 🎓 B.Tech in Artificial Intelligence & Data Science ('28)  
-🏛️ Vignan's Institute of Information Technology &nbsp;&bull;&nbsp; 📈 CGPA: 8.4 / 10
+Building practical software, exploring AI, and solving real-world problems with clean, efficient code.
 
-<br />
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--1019.vercel.app-18181b?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-1019.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevan--surya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-surya/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★_jeevan__2008-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/jeevan_2008)
-[![LeetCode](https://img.shields.io/badge/LeetCode-xEsEJyLy3A-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/xEsEJyLy3A/)
-[![Reddit](https://img.shields.io/badge/Reddit-Suryaaa__jr__11-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Suryaaa_jr_11/)
-[![X](https://img.shields.io/badge/X-@Suryaaaos-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Suryaaaos)
-[![GitHub](https://img.shields.io/badge/GitHub-jeevansurya560--arch-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevansurya560-arch)
-[![Email](https://img.shields.io/badge/Email-jalli.jeevansurya1019%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jalli.jeevansurya1019@gmail.com)
+<a href="https://www.linkedin.com/in/jeevan-surya/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jalli.jeevansurya1019@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/jeevansurya560-arch">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://portfolio-1019.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.codechef.com/users/jeevan_2008">
+  <img src="https://img.shields.io/badge/CODECHEF-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+<a href="https://leetcode.com/u/xEsEJyLy3A/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.reddit.com/user/Suryaaa_jr_11/">
+  <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+<a href="https://x.com/Suryaaaos">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="46%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/ascii-portrait-light.png">
+        <img alt="Jeevan Surya Jalli — Monochromatic ASCII Portrait" src="assets/ascii-portrait-dark.png" width="340" />
+      </picture>
+    </td>
+    <td width="54%" valign="top">
+
+```yaml
+— jeevansurya560-arch@github
+. Status:       Undergraduate Student
+. Degree:       B.Tech in Artificial Intelligence & Data Science ('28)
+. College:      Vignan's Institute of Information Technology
+. CGPA:         8.4 / 10
+. Location:     Visakhapatnam, Andhra Pradesh, India
+
+— Competitive Coding
+. CodeChef:     2★ Rated Coder (jeevan_2008)
+. LeetCode:     leetcode.com/u/xEsEJyLy3A
+. Focus:        Data Structures, Algorithms & SQL Problem Solving
+
+— Core Domains
+. Data & AI:    Machine Learning, EDA, NLP, Data Analytics
+. Engineering:  Full-Stack Web Development, Real-Time Systems
+. Languages:    Python, SQL, JavaScript, C, HTML, CSS
+. Frameworks:   React, FastAPI, MySQL, Power BI, Git
+
+— Quick Contact
+. Portfolio:    https://portfolio-1019.vercel.app
+. Email:        jalli.jeevansurya1019@gmail.com
+. LinkedIn:     linkedin.com/in/jeevan-surya
+. Reddit:       reddit.com/user/Suryaaa_jr_11
+. X:            x.com/Suryaaaos
+```
+
+   </td>
+  </tr>
+</table>
 
 ---
 
