@@ -2,7 +2,7 @@
 
 # Jeevan Surya Jalli
 
-### AI & Data Science Student &bull; Full-Stack Builder &bull; 2★ Coder on CodeChef
+### Data Analyst &bull; Full-Stack Developer &bull; 2★ Coder on CodeChef
 
 Building practical software, exploring AI, and solving real-world problems with clean, efficient code.
 
@@ -50,29 +50,21 @@ Building practical software, exploring AI, and solving real-world problems with 
 
 ```yaml
 — jeevansurya560-arch@github
-. Status:       Undergraduate Student
-. Degree:       B.Tech in Artificial Intelligence & Data Science ('28)
-. College:      Vignan's Institute of Information Technology
-. CGPA:         8.4 / 10
-. Location:     Visakhapatnam, Andhra Pradesh, India
+. Role:         Data Analyst & Full-Stack Developer
+. Location:     Visakhapatnam, India
+. Languages:    Python, SQL, JavaScript
 
 — Competitive Coding
-. CodeChef:     2★ Rated Coder (jeevan_2008)
+. CodeChef:     2★ Coder (jeevan_2008)
 . LeetCode:     leetcode.com/u/xEsEJyLy3A
-. Focus:        Data Structures, Algorithms & SQL Problem Solving
-
-— Core Domains
-. Data & AI:    Machine Learning, EDA, NLP, Data Analytics
-. Engineering:  Full-Stack Web Development, Real-Time Systems
-. Languages:    Python, SQL, JavaScript, C, HTML, CSS
-. Frameworks:   React, FastAPI, MySQL, Power BI, Git
 
 — Contact
-. Portfolio:    https://portfolio-1019.vercel.app
-. Email:        jalli.jeevansurya1019@gmail.com
+. Website:      https://portfolio-1019.vercel.app
+. GitHub:       github.com/jeevansurya560-arch
 . LinkedIn:     linkedin.com/in/jeevan-surya
 . Reddit:       reddit.com/user/Suryaaa_jr_11
 . X:            x.com/Suryaaaos
+. Email:        jalli.jeevansurya1019@gmail.com
 ```
 
    </td>
@@ -95,8 +87,8 @@ Building practical software, exploring AI, and solving real-world problems with 
       <td><strong>Programming Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
