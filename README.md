@@ -8,7 +8,7 @@
 
 # Jeevan Surya Jalli
 
-**AI & Data Science Student &bull; Software Builder &bull; Problem Solver**
+**AI & Data Science Student &bull; Software Builder &bull; 2★ Coder on CodeChef**
 
 📍 Visakhapatnam, Andhra Pradesh, India &nbsp;&bull;&nbsp; 🎓 B.Tech in Artificial Intelligence & Data Science ('28)  
 🏛️ Vignan's Institute of Information Technology &nbsp;&bull;&nbsp; 📈 CGPA: 8.4 / 10
@@ -17,6 +17,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--1019.vercel.app-18181b?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-1019.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevan--surya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-surya/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★_jeevan__2008-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/jeevan_2008)
+[![LeetCode](https://img.shields.io/badge/LeetCode-xEsEJyLy3A-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/xEsEJyLy3A/)
 [![Reddit](https://img.shields.io/badge/Reddit-Suryaaa__jr__11-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Suryaaa_jr_11/)
 [![X](https://img.shields.io/badge/X-@Suryaaaos-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Suryaaaos)
 [![GitHub](https://img.shields.io/badge/GitHub-jeevansurya560--arch-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevansurya560-arch)
@@ -34,6 +36,7 @@ My work balances data engineering and analytics with full-stack product developm
 
 - 🔭 **Current Focus**: Machine learning pipelines, relational data architecture, exploratory data analysis, and building full-stack web applications.
 - 💡 **Core Interests**: Artificial Intelligence & Machine Learning, Data Science & Analytics, Full-Stack Engineering, Data Structures & Algorithms, and SQL-driven problem-solving.
+- 🏆 **Competitive Programming**: **2★ Coder on CodeChef** (`jeevan_2008`) practicing algorithmic optimization, logic building, and contest problem solving.
 - 🎓 **Academics**: B.Tech in AI & DS (2024–2028) &bull; CGPA: 8.4 / 10.
 - 📍 **Based in**: Visakhapatnam, Andhra Pradesh, India.
 
@@ -147,12 +150,23 @@ Practicing data structures, algorithmic efficiency, and SQL problem-solving acro
 <table>
   <thead>
     <tr>
+      <th width="50%" align="center">CodeChef &bull; 2★ Coder</th>
       <th width="50%" align="center">LeetCode</th>
-      <th width="50%" align="center">CodeChef</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/jeevan_2008">
+          <img src="https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2-Star Profile" />
+        </a>
+        <br /><br />
+        <a href="https://www.codechef.com/users/jeevan_2008"><strong>codechef.com/users/jeevan_2008</strong></a>
+        <br />
+        ⭐ <strong>2★ Rated Coder</strong> on CodeChef
+        <br />
+        <sub>Competitive Programming &bull; Logic Building &bull; Algorithmic Starters Contests</sub>
+      </td>
       <td align="center">
         <a href="https://leetcode.com/u/xEsEJyLy3A/">
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
@@ -160,16 +174,9 @@ Practicing data structures, algorithmic efficiency, and SQL problem-solving acro
         <br /><br />
         <a href="https://leetcode.com/u/xEsEJyLy3A/"><strong>leetcode.com/u/xEsEJyLy3A</strong></a>
         <br />
-        <sub>Data Structures &bull; Algorithms &bull; SQL Queries &bull; Problem Solving</sub>
-      </td>
-      <td align="center">
-        <a href="https://www.codechef.com/users/jeevan_2008">
-          <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
-        </a>
-        <br /><br />
-        <a href="https://www.codechef.com/users/jeevan_2008"><strong>codechef.com/users/jeevan_2008</strong></a>
+        🧩 <strong>Algorithm & SQL Practice</strong>
         <br />
-        <sub>Competitive Programming &bull; Logic Building &bull; Timed Contests</sub>
+        <sub>Data Structures &bull; Algorithms &bull; Dynamic Programming &bull; Problem Solving</sub>
       </td>
     </tr>
   </tbody>
@@ -209,6 +216,8 @@ All profiles and communication channels are directly reachable below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevan--surya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-surya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--1019-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1019.vercel.app)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jeevan_2008)
+[![LeetCode](https://img.shields.io/badge/LeetCode-xEsEJyLy3A-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xEsEJyLy3A/)
 [![Reddit](https://img.shields.io/badge/Reddit-Suryaaa__jr__11-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Suryaaa_jr_11/)
 [![X](https://img.shields.io/badge/X-@Suryaaaos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suryaaaos)
 [![Email](https://img.shields.io/badge/Email-jalli.jeevansurya1019%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalli.jeevansurya1019@gmail.com)
@@ -218,14 +227,14 @@ All profiles and communication channels are directly reachable below:
 
 | Platform | Direct Clickable Redirect Link |
 |:---|:---|
+| **CodeChef** | [https://www.codechef.com/users/jeevan_2008](https://www.codechef.com/users/jeevan_2008) *(2★ Rated Coder)* |
+| **LeetCode** | [https://leetcode.com/u/xEsEJyLy3A/](https://leetcode.com/u/xEsEJyLy3A/) |
 | **Reddit** | [https://www.reddit.com/user/Suryaaa_jr_11/](https://www.reddit.com/user/Suryaaa_jr_11/) |
 | **LinkedIn** | [https://www.linkedin.com/in/jeevan-surya/](https://www.linkedin.com/in/jeevan-surya/) |
 | **Portfolio** | [https://portfolio-1019.vercel.app](https://portfolio-1019.vercel.app/) |
 | **X (Twitter)** | [https://x.com/Suryaaaos](https://x.com/Suryaaaos) |
 | **Email** | [jalli.jeevansurya1019@gmail.com](mailto:jalli.jeevansurya1019@gmail.com) |
 | **GitHub** | [https://github.com/jeevansurya560-arch](https://github.com/jeevansurya560-arch) |
-| **LeetCode** | [https://leetcode.com/u/xEsEJyLy3A/](https://leetcode.com/u/xEsEJyLy3A/) |
-| **CodeChef** | [https://www.codechef.com/users/jeevan_2008](https://www.codechef.com/users/jeevan_2008) |
 
 <br />
 
