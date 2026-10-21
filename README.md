@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jeevan Surya Jalli
+# Jalli Jeevan Surya
 
 ### Data Analyst &bull; Full-Stack Developer &bull; 2★ Coder on CodeChef
 
