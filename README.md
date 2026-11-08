@@ -137,22 +137,55 @@ Building practical software, exploring AI, and solving real-world problems with 
 
 ---
 
+## 🔥 Pokémon Evolution Companion
+
+<div align="center">
+
+<a href="https://github.com/jeevansurya560-arch/Cat-Mice">
+  <img src="https://raw.githubusercontent.com/jeevansurya560-arch/Cat-Mice/main/assets/generated/pokemon-evolution.gif" alt="Pokémon Evolution Companion - Charmeleon" width="340" />
+</a>
+
+<br />
+
+### **Charmeleon (No. 0005) &mdash; Stage 2 of 5**
+`219 Contributions` &bull; `4.7% Flame Saturation` &bull; `Evolves to Charizard at 350`
+
+<br />
+
+<a href="https://github.com/jeevansurya560-arch/Cat-Mice">
+  <img src="https://raw.githubusercontent.com/jeevansurya560-arch/Cat-Mice/main/assets/social/evolution-showcase.png" alt="5-Stage Pokémon Evolution Companion" width="100%" />
+</a>
+
+<sub>Procedural 2.5D Anime Evolution Engine powered by <a href="https://github.com/jeevansurya560-arch/Cat-Mice"><strong>Cat-Mice</strong></a> &bull; Updates daily via GitHub Actions</sub>
+
+</div>
+
+---
+
 ## 📊 GitHub Activity & Insights
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=default&hide_border=true&bg_color=ffffff">
-  <img alt="Jeevan Surya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=default&hide_border=true&bg_color=ffffff">
+  <img alt="Jeevan Surya's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=jeevansurya560-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansurya560-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansurya560-arch&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansurya560-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jeevansurya560-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jeevansurya560-arch&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+  <img alt="Most Used Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jeevansurya560-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jeevansurya560-arch&theme=dark&hide_border=true&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jeevansurya560-arch&theme=default&hide_border=true&background=ffffff">
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=jeevansurya560-arch&theme=dark&hide_border=true&background=0d1117" />
 </picture>
 
 <br />
