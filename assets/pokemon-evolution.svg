@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" width="520" height="460">
+  <defs>
+    <!-- Cinematic Character Radial Backlight -->
+    <radialGradient id="charAura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff4500" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#ff4500" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Progress Bar Glow -->
+    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4500"/>
+      <stop offset="50%" stop-color="#dc4e42"/>
+      <stop offset="100%" stop-color="#ffeb3b"/>
+    </linearGradient>
+
+    <filter id="bloom" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-hud { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .title-text { font-size: 20px; font-weight: 800; fill: #ffffff; letter-spacing: 0.5px; }
+    .dex-text { font-size: 13px; font-weight: 700; fill: #8b949e; letter-spacing: 1px; }
+    .stat-label { font-size: 11px; font-weight: 600; fill: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-val { font-size: 14px; font-weight: 800; fill: #f0f6fc; }
+  </style>
+
+  <rect width="520" height="460" fill="#0d1117" rx="14"/>
+
+  <!-- Subtle Radial Glow Behind Character -->
+  <ellipse cx="260" cy="230" rx="190" ry="170" fill="url(#charAura)"/>
+
+  <!-- Minimal Anime Ground Platform -->
+  <ellipse cx="260" cy="390" rx="140" ry="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <ellipse cx="260" cy="389" rx="100" ry="10" fill="#21262d" opacity="0.6"/>
+
+  <!-- Floating Embers Layer -->
+  <g id="embers">
+    
+  </g>
+
+  <!-- Render 2.5D Anime Character -->
+  
+    <g id="charmeleon" class="pokemon-2d-anime official-pokedex" transform="translate(0, 0)">
+      <!-- Ground Contact Shadow -->
+      <ellipse cx="250" cy="445" rx="130" ry="14" fill="#000000" opacity="0.25"/>
+
+      <!-- TAIL (Thick, muscular tail sweeping right and curving up) -->
+      <g id="region-tail">
+        <!-- Tail Shadow Layer -->
+        <path d="M 270 350 C 310 365 365 375 395 350 C 410 335 412 310 398 290 C 390 305 382 322 368 335 C 342 355 305 352 272 342 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <!-- Tail Base -->
+        <path d="M 272 346 C 312 360 364 368 392 346 C 406 332 408 312 396 295 C 388 308 380 324 366 336 C 342 354 306 350 274 340 Z"
+              fill="#dc4e42"/>
+        <!-- Tail Top Highlight -->
+        <path d="M 305 356 C 335 360 365 355 385 338"
+              stroke="#ea6c65" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+      </g>
+
+      <!-- TAIL FLAME (Torch fire at the tip) -->
+      <g id="region-tail_flame" transform="translate(0, 5)">
+        <!-- Outer Fire -->
+        <path d="M 396 295 C 380 275 368 240 382 205 C 392 230 400 240 408 228 C 420 215 415 185 432 170 C 445 205 440 245 422 270 C 412 285 404 292 396 295 Z"
+              fill="#ff4500" filter="drop-shadow(0 0 14px #ff4500)"/>
+        <!-- Mid Fire Tongues -->
+        <path d="M 396 290 C 384 270 376 242 388 215 C 396 235 402 242 412 232 C 422 222 418 198 430 185 C 438 212 434 245 420 268 C 410 282 402 288 396 290 Z"
+              fill="#ff9800"/>
+        <!-- Inner Hot Core Flame -->
+        <path d="M 398 285 C 388 268 382 248 392 228 C 398 242 404 246 412 240 C 418 232 416 215 424 205 C 430 225 426 250 416 268 Z"
+              fill="#ffeb3b"/>
+      </g>
+
+      <!-- RIGHT LEG & FOOT (Viewer's right - midground) -->
+      <g id="region-legs-right">
+        <!-- Muscular Thigh -->
+        <path d="M 270 325 C 295 330 325 350 322 390 C 320 415 310 435 295 442 C 285 435 278 410 272 385 C 268 360 265 340 270 325 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 272 328 C 294 334 320 352 318 388 C 316 412 306 432 294 438 C 285 432 280 410 274 385 C 270 360 268 342 272 328 Z"
+              fill="#dc4e42"/>
+        <!-- 3 Right Foot Claws -->
+        <path d="M 278 440 L 268 450 L 286 446 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <path d="M 288 444 L 284 456 L 298 448 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <path d="M 300 442 L 302 454 L 310 442 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+      </g>
+
+      <!-- TORSO & BELLY -->
+      <g id="region-torso">
+        <!-- Back & Torso Silhouette -->
+        <path d="M 230 220 C 215 250 205 285 205 320 C 205 365 225 400 255 405 C 285 405 305 375 305 330 C 305 270 295 230 275 205 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="5" stroke-linejoin="round"/>
+        <path d="M 232 220 C 218 250 210 285 210 318 C 210 360 228 395 255 400 C 282 400 300 372 300 330 C 300 272 292 232 274 206 Z"
+              fill="#dc4e42"/>
+
+        <!-- PALE BEIGE/CREAM BELLY PATCH (As seen in reference) -->
+        <path d="M 226 250 C 215 280 212 315 218 345 C 224 372 240 388 256 388 C 272 388 280 365 278 335 C 275 295 258 260 236 248 Z"
+              fill="#cca788"/>
+        <path d="M 228 252 C 218 280 216 312 222 342 C 226 368 240 384 254 384 C 268 384 276 362 274 334 C 272 296 256 262 236 250 Z"
+              fill="#e8d5be"/>
+        <!-- Belly subtle highlight -->
+        <path d="M 232 265 C 226 290 225 320 232 345"
+              stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.35"/>
+      </g>
+
+      <!-- RIGHT ARM (Viewer's right - midground) -->
+      <g id="region-arms-right">
+        <path d="M 288 270 C 305 280 325 300 324 328 C 322 340 314 348 304 348 C 298 340 295 325 294 308 C 292 290 286 280 288 270 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 290 272 C 304 282 322 300 320 326 C 318 336 312 344 304 344 C 298 336 296 322 295 308 C 294 292 288 282 290 272 Z"
+              fill="#dc4e42"/>
+        <!-- 3 Right Hand Claws -->
+        <path d="M 314 342 L 316 358 L 324 348 Z" fill="#ffffff" stroke="#3a1512" stroke-width="1.8"/>
+        <path d="M 322 346 L 328 362 L 334 350 Z" fill="#ffffff" stroke="#3a1512" stroke-width="1.8"/>
+        <path d="M 330 348 L 340 360 L 338 346 Z" fill="#ffffff" stroke="#3a1512" stroke-width="1.8"/>
+      </g>
+
+      <!-- LEFT LEG & FOOT (Viewer's left - foreground) -->
+      <g id="region-legs-left">
+        <!-- Muscular Thigh & Calf -->
+        <path d="M 210 320 C 185 330 170 355 174 385 C 178 408 190 422 188 435 C 182 435 174 425 170 410 C 165 390 175 350 200 325 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 208 322 C 188 332 174 355 178 382 C 182 405 192 418 190 432 C 185 432 178 422 174 408 C 170 390 178 352 202 326 Z"
+              fill="#dc4e42"/>
+        <!-- 3 Left Foot Claws (Resting on Ground) -->
+        <path d="M 172 434 L 158 442 L 176 446 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <path d="M 180 442 L 174 454 L 192 448 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <path d="M 194 444 L 194 456 L 204 444 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+      </g>
+
+      <!-- LEFT ARM (Viewer's left - foreground) -->
+      <g id="region-arms-left">
+        <!-- Shoulder, Bicep, Forearm reaching forward -->
+        <path d="M 206 265 C 185 275 168 298 162 322 C 158 338 168 345 178 342 C 188 335 194 315 198 295 C 200 282 204 272 206 265 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 206 268 C 188 276 172 298 166 320 C 162 334 170 340 178 338 C 186 332 192 314 196 295 C 198 284 202 274 206 268 Z"
+              fill="#dc4e42"/>
+        <!-- 3 Prominent White Curved Hand Claws -->
+        <!-- Claw 1 (outer) -->
+        <path d="M 152 325 L 134 334 L 148 342 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <!-- Claw 2 (middle) -->
+        <path d="M 154 340 L 140 354 L 158 350 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+        <!-- Claw 3 (inner) -->
+        <path d="M 164 348 L 156 364 L 172 356 Z" fill="#ffffff" stroke="#3a1512" stroke-width="2"/>
+      </g>
+
+      <!-- HEAD & HORN CREST (Exact official Pokédex head structure) -->
+      <g id="region-head">
+        <!-- Neck Base -->
+        <path d="M 230 220 C 235 205 240 195 245 185 C 265 190 280 195 285 210 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5"/>
+        <path d="M 232 218 C 236 205 241 196 246 186 C 264 191 278 196 283 208 Z"
+              fill="#dc4e42"/>
+
+        <!-- ICONIC BACKWARD-SWEEPING HORN CREST -->
+        <path d="M 250 145 C 270 125 295 95 315 85 C 322 82 328 86 325 94 C 315 118 300 150 285 185 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 252 143 C 272 124 296 95 314 86 C 320 84 324 87 322 93 C 314 116 298 148 284 182 Z"
+              fill="#dc4e42"/>
+        <!-- Horn Top Ridge Highlight -->
+        <path d="M 262 135 C 280 115 300 95 315 88"
+              stroke="#ea6c65" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+        <!-- REPTILIAN HEAD & SNOUT -->
+        <path d="M 255 140 C 235 145 205 160 185 180 C 175 190 178 200 186 204 C 205 210 225 215 242 205 C 255 195 262 175 260 155 Z"
+              fill="#a92b28" stroke="#3a1512" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 254 138 C 236 143 206 158 186 178 C 178 188 180 198 188 202 C 206 208 224 212 240 203 C 252 193 258 174 256 154 Z"
+              fill="#dc4e42"/>
+
+        <!-- Far Brow Ridge (gives 3/4 dimensional depth) -->
+        <path d="M 240 142 C 246 148 248 155 246 160"
+              stroke="#3a1512" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+        <!-- Snout Top Highlight -->
+        <path d="M 215 162 C 198 175 186 186 184 195"
+              stroke="#ea6c65" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+
+        <!-- Nostril -->
+        <ellipse cx="198" cy="186" rx="2.5" ry="1.8" fill="#3a1512"/>
+
+        <!-- DETERMINED TEAL ANIME EYE (Near Side) -->
+        <g id="region-eye">
+          <!-- Sharp Triangular Brow Ridge -->
+          <path d="M 210 162 L 235 165" stroke="#3a1512" stroke-width="3.5" stroke-linecap="round"/>
+          <!-- Sclera -->
+          <polygon points="212,165 233,167 228,185 215,182" fill="#ffffff" stroke="#3a1512" stroke-width="2.5"/>
+          <!-- Teal Iris -->
+          <polygon points="216,166 230,168 226,183 218,181" fill="#2a8f82"/>
+          <!-- Pupil -->
+          <ellipse cx="223" cy="174" rx="3.5" ry="6" fill="#0b1710"/>
+          <!-- Specular White Reflection Dot -->
+          <circle cx="220" cy="170" r="2.2" fill="#ffffff"/>
+        </g>
+
+        <!-- Confident Smirk / Mouthline with Beak Notch -->
+        <path d="M 188 202 Q 206 208 228 198" stroke="#3a1512" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+        <!-- Small Tooth / Fang at corner of mouth -->
+        <polygon points="220,199 223,207 226,200" fill="#ffffff" stroke="#3a1512" stroke-width="1.2"/>
+      </g>
+    </g>
+  
+
+  <!-- Modern HUD Header -->
+  <g class="font-hud" transform="translate(36, 36)">
+    <!-- Dex & Name -->
+    <text x="0" y="0" class="dex-text">No. 0005<tspan dx="8" font-size="11" font-weight="700" fill="#ffa059">● FIRE</tspan></text>
+    <text x="0" y="22" class="title-text">CHARMELEON</text>
+
+    <!-- Contribution & Stage Progress Metric -->
+    <text x="448" y="0" text-anchor="end" class="stat-label">Lifetime Activity</text>
+    <text x="448" y="20" text-anchor="end" class="stat-val">219 Commits</text>
+  </g>
+
+  <!-- Progress Bar Footer -->
+  <g class="font-hud" transform="translate(40, 412)">
+    <!-- Background Track -->
+    <rect x="0" y="0" width="440" height="8" rx="4" fill="#21262d"/>
+    <!-- Animated Color Fill -->
+    <rect x="0" y="0" width="21" height="8" rx="4" fill="url(#progressGrad)"/>
+    <!-- Stats Row -->
+    <text x="0" y="24" class="stat-label">Stage Colouring Progress</text>
+    <text x="440" y="24" text-anchor="end" class="stat-val">4.7%</text>
+  </g>
+</svg>
