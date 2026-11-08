@@ -150,14 +150,6 @@ Building practical software, exploring AI, and solving real-world problems with 
 ### **Charmeleon (No. 0005) &mdash; Stage 2 of 5**
 `219 Contributions` &bull; `4.7% Flame Saturation` &bull; `Evolves to Charizard at 350`
 
-<br />
-
-<a href="https://github.com/jeevansurya560-arch/Cat-Mice">
-  <img src="https://raw.githubusercontent.com/jeevansurya560-arch/Cat-Mice/main/assets/social/evolution-showcase.png" alt="5-Stage Pokémon Evolution Companion" width="100%" />
-</a>
-
-<sub>Procedural 2.5D Anime Evolution Engine powered by <a href="https://github.com/jeevansurya560-arch/Cat-Mice"><strong>Cat-Mice</strong></a> &bull; Updates daily via GitHub Actions</sub>
-
 </div>
 
 ---
